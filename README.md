@@ -1,4 +1,4 @@
-### Hi there, I'm Iskandar Qodirov! 👋
+### Hi there 👋
 
 I'm a passionate .NET developer based in Uzbekistan with a year of experience in computer science. My journey into the world of coding has been exciting, and I'm constantly learning and improving my .NET skills.
 
@@ -13,4 +13,4 @@ I'm a passionate .NET developer based in Uzbekistan with a year of experience in
 - Seeking opportunities for growth and learning.
 
 📊 **GitHub Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdotet&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdotnet&show_icons=true)
