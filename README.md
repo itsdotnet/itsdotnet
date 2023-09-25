@@ -11,6 +11,3 @@ I'm a passionate .NET developer based in Uzbekistan with a year of experience in
 - Exploring new technologies in the .NET ecosystem.
 - Collaborating on open-source projects to expand my knowledge.
 - Seeking opportunities for growth and learning.
-
-📊 **GitHub Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdotnet&show_icons=true)
