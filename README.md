@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Iskandar Qodirov! 👋
 
-<!--
-**itsdotnet/itsdotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate .NET developer based in Uzbekistan with a year of experience in computer science. My journey into the world of coding has been exciting, and I'm constantly learning and improving my .NET skills.
 
-Here are some ideas to get you started:
+🚀 **My Expertise:**
+- Programming Languages: C#, .NET
+- Development Tools: Visual Studio, VS Code, JetBrains Rider
+- Operating System: Linux (Kali Linux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently, I'm:**
+- Exploring new technologies in the .NET ecosystem.
+- Collaborating on open-source projects to expand my knowledge.
+- Seeking opportunities for growth and learning.
+
+📊 **GitHub Stats:**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdotet&show_icons=true)
