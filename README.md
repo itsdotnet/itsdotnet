@@ -5,7 +5,7 @@ I'm a passionate .NET developer based in Uzbekistan with a year of experience in
 🚀 **My Expertise:**
 - Programming Languages: C#, .NET
 - Development Tools: Visual Studio, VS Code, JetBrains Rider
-- Operating System: Linux (Kali Linux), Windows
+- Operating System: Linux (Arch Linux), Windows
 
 🌱 **Currently, I'm:**
 - Exploring new technologies in the .NET ecosystem.
